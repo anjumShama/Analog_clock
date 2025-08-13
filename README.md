@@ -12,7 +12,7 @@ It displays the current time in a smooth, real-time moving clock interface.
 
 
  Project Structure
- index.html # Main HTML file
- style.css # Styles for the clock
- script.js # JavaScript functionality
- README.md # Project documentation
+ index.html => Main HTML file
+ index.css => Styles for the clock
+ index.js => JavaScript functionality
+ README.md => Project documentation
